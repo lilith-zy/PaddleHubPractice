@@ -1,2 +1,2 @@
 # PaddleHubPractice
-This project is the assignment of freshman training of PaddlePaddle.
+This project is the assignment of the freshman training of PaddlePaddle.
